@@ -13,7 +13,7 @@ Feel free to drop a text on LinkedIn (or an email) ^_^
 
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
-    <ul id="News"> -->
+    <ul id="News : "> 
       <li><i>[November 2023]</i> I receive the Deutschlanstipendium 2023, and funded by Porsche A.G. </li>
     </ul>
   </div>
@@ -41,7 +41,6 @@ Feel free to drop a text on LinkedIn (or an email) ^_^
         <li> Used R programming language for data-cleaning, data pruning and data-visualisation </li>
         <li> Performed Customer Segmentation using RFM Model and k-means Clustering </li>
       </ul>
-      
     </ul>
   </div>
 </p>

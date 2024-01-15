@@ -10,23 +10,30 @@ Feel free to drop a text on LinkedIn (or an email) ^_^
 
 <details>
 <summary>Some cool updates (Click to expand)</summary>
-
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="News : "> 
       <li><i>[November 2023]</i> I receive the Deutschlanstipendium 2023, and funded by Porsche A.G. </li>
     </ul>
   </div>
+</p>   
+</details>
+
+
+<details>
+<summary>Some fun projects hidden behind Datenschutz :') (Click to expand)</summary>
+<p>
+  
   <div style="width:100%;overflow-y:scroll; height:230px;">
-    <ul id="Some fun projects hidden behind Datenschutz :') "> 
-      <li> <i> [December 2023] </i> Variable-lag identification for multiple time-series analysis using improved dynamic time warping : Dr. Ximeng Cheng (Department of AI, Fraunhofer HHI, Berlin) </li>
+    <ul id=" Projects : "> 
+      <li> <i> [December 2023] </i> <b>Variable-lag identification for multiple time-series analysis using improved dynamic time warping : Dr. Ximeng Cheng (Department of AI, Fraunhofer HHI, Berlin)</b> </li>
       <ul>
         <li> Identified dynamic lag in autocorrelated time series </li>
         <li> Performed Causality analysis (Granger's, etc.) to obtain information about lag effect </li>
         <li> Developed an implementation Dynamic Time Warping with moving window and correlation analysis (along with Transfer Entropy) </li>
         <li> Improved forecasting performance with feature engineering </li>
       </ul>
-      <li><i>[September 2021]</i> Hierarchical Clustering in Jet Reconstruction Algorithms : Prof. Dr. Debarghya Ghoshdastidar, Dr. Stefan Kluth (TU Munich with Max Planck Institute for Physics) </li>
+      <li><i>[September 2021]</i> <b> Hierarchical Clustering in Jet Reconstruction Algorithms : Prof. Dr. Debarghya Ghoshdastidar, Dr. Stefan Kluth (TU Munich with Max Planck Institute for Physics) </b> </li>
         <ul>
           <li> Interpretability of hierarchical clustering algorithms in data obtained from hadronization </li>
           <li> Implemented 7 different clustering algorithms – Sequential Clustering, Average Linkage, Ward Linkage, DIANA (or Divisive-Analysis) with pairwise distance, DIANA with JADE/Durham distance, Recursive Spectral Maxcut, and Recursive Normalized Spectral Maxcut, to simulated and real data obtained from hadronization on the hadron, parton and data level </li>
@@ -34,7 +41,7 @@ Feel free to drop a text on LinkedIn (or an email) ^_^
           <li> Generated algorithms that are Collinear Safe, developed a new metric to quantify performance </li>
           <li> Developed global clustering algorithms inspired from the k-means++ technique </li>
         </ul>
-      <li><i> [March 2021] </i> Exploratory Data Analysis on Time Series Sales Data : Prof. Dr. A. Chandra, Prof. Dr. D. Bhattacharya (St. Xavier's College, Kolkata) </li>
+      <li><i> [March 2021] </i> <b> Exploratory Data Analysis on Time Series Sales Data : Prof. Dr. A. Chandra, Prof. Dr. D. Bhattacharya (St. Xavier's College, Kolkata) </b> </li>
       <ul>
         <li> Analyzed 4 years of sales data (2 million+ data points) of a leading jewellery brand in India </li>
         <li> Conducted time series analysis on the data along with developing relevant business insights </li>

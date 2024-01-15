@@ -14,6 +14,9 @@ Feel free to drop a text on LinkedIn (or an email) ^_^
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="News : "> 
       <li><i>[November 2023]</i> I receive the Deutschlanstipendium 2023, and funded by Porsche A.G. </li>
+      <li> <i>[June 2022]</i> I graduate from college (BSc. Statistics) with honours and first class distinction </li>
+      <li> <i>[May 2022]</i> I receive an admit from RWTH Aachen University </li>
+      <li> <i>[July 2019]</i> I was awarded the INSPIRE Scholarship by the Ministry of Education (India) for achieving top 1% rank in the national ISC Examination </li>
     </ul>
   </div>
 </p>   

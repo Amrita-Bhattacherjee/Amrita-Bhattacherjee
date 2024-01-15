@@ -26,7 +26,7 @@ Feel free to drop a text on LinkedIn (or an email) ^_^
   
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id=" Projects : "> 
-      <li> <i> [December 2023] </i> <font color="blue">  <b> Variable-lag identification for multiple time-series analysis using improved dynamic time warping : Dr. Ximeng Cheng (Department of AI, Fraunhofer HHI, Berlin)</b> </font> </li>
+      <li> <i> [December 2023] </i> <code style="color : gold"> <b> Variable-lag identification for multiple time-series analysis using improved dynamic time warping : Dr. Ximeng Cheng (Department of AI, Fraunhofer HHI, Berlin)</b> </code> </font> </li>
       <ul>
         <li> Identified dynamic lag in autocorrelated time series </li>
         <li> Performed Causality analysis (Granger's, etc.) to obtain information about lag effect </li>
